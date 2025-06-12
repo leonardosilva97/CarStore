@@ -116,6 +116,7 @@ npm install
 yarn install
 
 # Execute o app
+npx expo prebuild
 
 # Para iOS
 npx expo run:ios
